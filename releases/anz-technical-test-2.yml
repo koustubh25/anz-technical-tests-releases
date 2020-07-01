@@ -9,8 +9,8 @@ metadata:
     flux.weave.works/tag.anchor: regexp:^[0-9a-f]{7}$
 spec:
   chart:
-    git: git@github.com:koustubh25/anz-technical-tests.git
-    path: test-2/ci/releases/anz-technical-test-2-chart
+    git: git@github.com:koustubh25/anz-technical-tests-releases.git
+    path: charts/anz-technical-test-2
     ref: master
   values:
     image:
