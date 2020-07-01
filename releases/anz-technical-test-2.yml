@@ -15,7 +15,7 @@ spec:
   values:
     image:
       repository: "us.gcr.io/prismatic-cider-277502/anz-golang-version-test-2"
-      tag: "dd35434"
+      tag: "9161606"
     service:
       type: LoadBalancer
       port: 80
